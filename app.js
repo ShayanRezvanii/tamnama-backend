@@ -19,6 +19,8 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.use(express.json());
 
+app.use("/uploads", express.static("uploads"));
+
 app.use("/api/products", post);
 app.use("/api/users", users);
 app.use("/api/category", category);

@@ -10,5 +10,6 @@ router.use(auth);
 
 router.get("/getCategory", categoryControllers.getCategory);
 router.post("/addCategory", categoryControllers.addCategory);
+router.post("/deleteCategory", categoryControllers.deleteCategory);
 
 module.exports = router;
