@@ -6,11 +6,13 @@ const router = express.Router();
 const upload = require("../middleware/upload");
 const auth = require("../middleware/auth");
 
-router.get("/:id", postControllers.getProductById);
+// router.get("/:id", postControllers.getProductById);
 router.use(auth);
 
-router.post("/create", upload.array("imageURL"), postControllers.createProduct);
-
+router.post("/create", postControllers.createProduct);
+router.get("/getProduct/:id", postControllers.getProductById);
+router.get("/list", postControllers.getProductList);
+router.post("/update/:id", postControllers.editProduct);
 router.delete("/remove/:id", postControllers.deleteproduct);
 router.post("/getProductByCategory", postControllers.getProductByCategory);
 
