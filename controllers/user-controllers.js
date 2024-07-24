@@ -118,8 +118,15 @@ const profile = async (req, res, next) => {
   }
 };
 
+const getUserProfile = async (req, res, next) => {
+  const name = req.query.name;
+  const profile = await Profile.findOne({ shopName: name });
+  res.json({ profile });
+};
+
 exports.getUsers = getUsers;
 exports.getUser = getUser;
 exports.profile = profile;
 exports.signUp = signUp;
 exports.login = login;
+exports.getUserProfile = getUserProfile;

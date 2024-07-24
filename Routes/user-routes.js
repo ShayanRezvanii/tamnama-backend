@@ -13,5 +13,6 @@ router.post("/getUser", usersControllers.getUser);
 router.use(auth);
 
 router.post("/profile", usersControllers.profile);
+router.get("/showProfile", usersControllers.getUserProfile);
 
 module.exports = router;
