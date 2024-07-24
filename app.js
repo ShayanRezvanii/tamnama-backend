@@ -23,7 +23,6 @@ app.use(express.json());
 
 app.post("/api/upload/:id", (req, res) => {
   upload(req, res, (err) => {
-    console.log(res);
     if (err) {
       res.status(400).json({ success: false, message: err });
     } else {
@@ -33,7 +32,7 @@ app.post("/api/upload/:id", (req, res) => {
         res.status(200).json({
           success: true,
           message: "File uploaded!",
-          file: `uploads/${req.params.id}/${req.file.filename}`,
+          file: `uploads/${req.query.storageKey}/${req.params.id}/${req.file.filename}`,
         });
       }
     }
