@@ -9,6 +9,7 @@ router.get("/list", usersControllers.getUsers);
 router.post("/register", usersControllers.signUp);
 router.post("/login", usersControllers.login);
 router.post("/getUser", usersControllers.getUser);
+router.get("/showInfo", usersControllers.getUserProfile);
 
 router.use(auth);
 

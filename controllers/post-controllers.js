@@ -19,12 +19,20 @@ const getProductList = async (req, res, next) => {
 };
 
 const getProductByCategory = async (req, res, next) => {
+  const { shopName } = req.query;
+
   const { category } = req.body;
-  const foundedProduct = await Products.find({ category: category });
+  const foundedProduct = await Products.find({ shopName: shopName });
+
+  const filter = foundedProduct.find((item) => {
+    return item.category === category;
+  });
+  console.log(filter);
+
   if (foundedProduct.length <= 0) {
     res.json({ message: "not founded product with this category " });
   } else {
-    res.json({ foundedProduct });
+    res.json({ foundedProduct: filter });
   }
 };
 
@@ -92,8 +100,12 @@ const editProduct = async (req, res, next) => {
 };
 
 const deleteproduct = async (req, res, next) => {
-  const id = req.params.id;
-  const foundedProduct = await Products.findByIdAndDelete(id);
+  const { productId } = req.body;
+  const foundedProduct = await Products.findByIdAndDelete(productId);
+
+  if (!foundedProduct) {
+    return res.status(404).json({ message: "not found product" });
+  }
 
   res.status(200).json({ message: "Post Deleted" });
 };

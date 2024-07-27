@@ -69,7 +69,7 @@ const login = async (req, res, next) => {
 };
 
 const profile = async (req, res, next) => {
-  const { firstColor, secondColor, workTime, phone, imageURL } = req.body;
+  const { firstColor, workTime, phone, imageURL } = req.body;
 
   try {
     const token = req.headers.authorization.split(" ")[1];
@@ -90,7 +90,6 @@ const profile = async (req, res, next) => {
     if (existingProfile) {
       // Update existing profile
       existingProfile.firstColor = firstColor;
-      existingProfile.secondColor = secondColor;
       existingProfile.workTime = workTime;
       existingProfile.phone = phone;
       existingProfile.imageURL = imageURL;
@@ -103,7 +102,6 @@ const profile = async (req, res, next) => {
         _id: uuid,
         shopName,
         firstColor,
-        secondColor,
         workTime,
         phone,
         imageURL,

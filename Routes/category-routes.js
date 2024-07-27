@@ -5,6 +5,9 @@ const categoryControllers = require("../controllers/category-controllers");
 const router = express.Router();
 const auth = require("../middleware/auth");
 
+router.get("/list", categoryControllers.getCategory);
+router.get("/gategoryList", categoryControllers.getCategory);
+
 router.use(auth);
 
 router.get("/getCategory", categoryControllers.getCategory);

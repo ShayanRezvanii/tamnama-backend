@@ -12,8 +12,10 @@ const Products = require("./models/products");
 const mongoose = require("mongoose");
 require("dotenv").config({ path: "./config.env" });
 
+const allowedOrigins = ["http://localhost:3000", "http://localhost:3001"];
+
 const corsOptions = {
-  origin: "http://localhost:3000", //  frontend host
+  origin: allowedOrigins, //  frontend host
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   credentials: true,
 };
@@ -40,9 +42,15 @@ app.post("/api/upload/:id", (req, res) => {
 });
 
 app.use("/api/uploads", express.static("uploads"));
+
 app.use("/api/products", post);
+app.use("/api/client/products", post);
+
 app.use("/api/users", users);
+app.use("/api/client/users", users);
+
 app.use("/api/category", category);
+app.use("/api/client/category", category);
 
 mongoose
   .connect(process.env.DATABASE_URL)
