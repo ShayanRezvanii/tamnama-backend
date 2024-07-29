@@ -69,7 +69,7 @@ const login = async (req, res, next) => {
 };
 
 const profile = async (req, res, next) => {
-  const { firstColor, workTime, phone, imageURL } = req.body;
+  const { firstColor, workTime, phone, imageURL, address } = req.body;
 
   try {
     const token = req.headers.authorization.split(" ")[1];
@@ -93,6 +93,7 @@ const profile = async (req, res, next) => {
       existingProfile.workTime = workTime;
       existingProfile.phone = phone;
       existingProfile.imageURL = imageURL;
+      existingProfile.address = address;
 
       const updatedProfile = await existingProfile.save();
       return res.status(200).json({ updatedProfile });
@@ -104,6 +105,7 @@ const profile = async (req, res, next) => {
         firstColor,
         workTime,
         phone,
+        address,
         imageURL,
       });
 

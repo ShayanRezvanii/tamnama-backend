@@ -8,6 +8,7 @@ const profileSchema = new Schema({
   secondColor: { type: String, required: true },
   workTime: { type: String, required: true },
   phone: { type: String, required: true },
+  address: { type: String, required: true },
   shopName: { type: String, required: true },
   imageURL: { type: String, required: true },
 
