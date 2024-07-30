@@ -9,6 +9,7 @@ const auth = require("../middleware/auth");
 // router.get("/:id", postControllers.getProductById);
 
 router.get("/productList", postControllers.getProductList);
+router.post("/getProductByCategory", postControllers.getProductByCategory);
 
 router.use(auth);
 

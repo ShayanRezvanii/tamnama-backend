@@ -24,7 +24,8 @@ const getProductByCategory = async (req, res, next) => {
   const { category } = req.body;
   const foundedProduct = await Products.find({ shopName: shopName });
 
-  const filter = foundedProduct.find((item) => {
+  const filter = foundedProduct.filter((item) => {
+    console.log(item);
     return item.category === category;
   });
   console.log(filter);
