@@ -109,11 +109,13 @@ const profile = async (req, res, next) => {
         imageURL,
       });
 
+      console.log(req.body);
+
       const savedProfile = await newProfile.save();
       return res.status(201).json({ newProfile: savedProfile });
     }
   } catch (error) {
-    console.error("Error saving profile:", error); // Log the error for debugging
+    console.error("Error saving profile:", error.message); // Log the error for debugging
     res.status(500).send("An error occurred while saving the profile.");
   }
 };

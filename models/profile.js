@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 
 const profileSchema = new Schema({
   firstColor: { type: String, required: true },
-  secondColor: { type: String, required: true },
+  secondColor: { type: String, required: false },
   workTime: { type: String, required: true },
   phone: { type: String, required: true },
   address: { type: String, required: true },

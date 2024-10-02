@@ -12,7 +12,11 @@ const Products = require("./models/products");
 const mongoose = require("mongoose");
 require("dotenv").config({ path: "./config.env" });
 
-const allowedOrigins = ["http://localhost:3000", "http://localhost:3001"];
+const allowedOrigins = [
+  "http://localhost:3000",
+  "http://localhost:3001",
+  "http://localhost:3002",
+];
 
 const corsOptions = {
   origin: allowedOrigins, //  frontend host
