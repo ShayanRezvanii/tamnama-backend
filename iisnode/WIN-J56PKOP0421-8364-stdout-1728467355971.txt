@@ -1,0 +1,180 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\7d689a90-64dc-4a04-905b-4029241a8511
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 19.4s (2830 modules)
+ ✓ Compiled in 1343ms (1388 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 28136ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 11.5s (3069 modules)
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1200&q=75 500 in 14914ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1200&q=75 500 in 12529ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728283893094.png&w=1200&q=75 500 in 11969ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728283893094.png&w=1200&q=75 500 in 9924ms
+ GET /favicon.ico 200 in 12772ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 3.6s (3111 modules)
+ GET /login 500 in 4146ms
+ GET /favicon.ico 200 in 67ms
+ GET /favicon.ico 200 in 34ms
+ GET /favicon.ico 200 in 34ms
+ GET /favicon.ico 200 in 25ms
+ GET /favicon.ico 200 in 25ms
+ GET /favicon.ico 200 in 19ms
+ GET /favicon.ico 200 in 15ms
+ ○ Compiling /[cafeName]/profile ...
+ ✓ Compiled /[cafeName]/profile in 4.1s (3740 modules)
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728283893094.png&w=1920&q=75 500 in 5122ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728283893094.png&w=1920&q=75 500 in 2790ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1080&q=75 500 in 4536ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1080&q=75 500 in 2427ms
+ GET /favicon.ico 200 in 33ms
+ GET /favicon.ico 200 in 14ms
+ GET /favicon.ico 200 in 13ms
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 390ms
+ GET /favicon.ico 200 in 32ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1920&q=75 500 in 2174ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fundefined&w=1920&q=75 500 in 84ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728467543925.png&w=1920&q=75 500 in 2096ms
+ GET /_next/image?url=http%3A%2F%2F172.25.1.29%3A8000%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728467543925.png&w=1920&q=75 500 in 39ms
+ GET /favicon.ico 200 in 48ms
+ GET /favicon.ico 200 in 17ms
+ ✓ Compiled in 4.2s (3722 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 605ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 736ms (1853 modules)
+ GET /favicon.ico 200 in 1016ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1390ms (3740 modules)
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fundefined&w=1920&q=75 500 in 11592ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fundefined&w=1920&q=75 500 in 1540ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728467543925.png&w=1920&q=75 500 in 10053ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Fprofile%2Flounge%2Flounge_1728467543925.png&w=1920&q=75 500 in 20ms
+ ✓ Compiled in 1452ms (3754 modules)
+ ✓ Compiled in 1322ms (3754 modules)
+ ✓ Compiled in 1035ms (3754 modules)
+ ✓ Compiled in 1314ms (3724 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 500 in 314ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 659ms (1854 modules)
+ GET /favicon.ico 200 in 837ms
+ ✓ Compiled in 1253ms (3752 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 414ms
+ GET /favicon.ico 200 in 51ms
+profile
+t-cafe3
+false
+undefined
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+ GET /t-cafe3/profile 200 in 546ms
+ GET /favicon.ico 200 in 67ms

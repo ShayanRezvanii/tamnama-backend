@@ -1,0 +1,48 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\6ad6f767-e183-4bf7-a3b6-fc0022d5f8de
+ ○ Compiling / ...
+ ✓ Compiled /[cafeName]/category in 28.8s (2854 modules)
+ GET / 307 in 30110ms
+ GET / 307 in 17986ms
+ GET / 307 in 30137ms
+ GET / 307 in 380ms
+ ○ Compiling /login ...
+category
+t-cafe
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe/category 200 in 24726ms
+ ✓ Compiled /login in 3.4s (2870 modules)
+ GET /login 500 in 3852ms
+ GET /login 500 in 3856ms
+ GET /login 500 in 54ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 790ms (1508 modules)
+ GET /favicon.ico 200 in 1010ms
+ GET /login 500 in 328ms
+ GET /favicon.ico 200 in 20ms

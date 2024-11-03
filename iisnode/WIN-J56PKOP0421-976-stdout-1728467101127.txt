@@ -1,0 +1,19 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\8c843d40-a3aa-4a65-a7bb-a4b00a49a9cd
+ ○ Compiling / ...
+ ✓ Compiled /login in 25.3s (2785 modules)
+ GET / 307 in 31161ms
+ GET / 307 in 31150ms
+ GET /login 500 in 23359ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1039ms (1457 modules)
+ GET /favicon.ico 200 in 1397ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1712ms (2804 modules)
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 2044ms
+   Reload env: .env
+ ✓ Compiled in 6.3s (2764 modules)
+ GET /login 500 in 426ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1350ms (2797 modules)
+ GET /favicon.ico 200 in 1885ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 1873ms
