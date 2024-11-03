@@ -1,0 +1,1132 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\ee55d860-e010-4d8b-85dc-2e8d495a8804
+ ○ Compiling /login ...
+ ✓ Compiled /login in 40.6s (2785 modules)
+ GET / 307 in 42201ms
+ GET /login 500 in 42229ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 2.4s (1457 modules)
+ GET /favicon.ico 200 in 2621ms
+ GET /favicon.ico 200 in 34ms
+ GET /login 500 in 504ms
+ GET /favicon.ico 200 in 71ms
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 3.5s (2888 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 475ms
+ GET /favicon.ico 200 in 76ms
+ GET /favicon.ico 200 in 30ms
+ ○ Compiling /[cafeName]/profile ...
+ ✓ Compiled /[cafeName]/profile in 5.6s (3487 modules)
+ ✓ Compiled in 1602ms (1717 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 553ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1091ms (1814 modules)
+ GET /favicon.ico 200 in 1545ms
+ GET /favicon.ico 200 in 29ms
+ ○ Compiling /[cafeName]/category ...
+ ✓ Compiled /[cafeName]/category in 3.3s (3546 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 476ms
+ GET /favicon.ico 200 in 116ms
+ GET /favicon.ico 200 in 29ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /[cafeName]/category/add in 2s (3535 modules)
+ ✓ Compiled in 2.7s (1716 modules)
+ GET /category-icon/cake.png 404 in 5253ms
+ GET /category-icon/latte.png 404 in 5222ms
+ GET /category-icon/1.png 404 in 218ms
+ GET /category-icon/2.png 404 in 214ms
+ GET /category-icon/3.png 404 in 217ms
+ GET /category-icon/5.png 404 in 221ms
+ GET /category-icon/4.png 404 in 227ms
+ GET /category-icon/6.png 404 in 246ms
+ GET /category-icon/7.png 404 in 236ms
+ GET /category-icon/10.png 404 in 217ms
+ GET /category-icon/8.png 404 in 221ms
+ GET /category-icon/9.png 404 in 221ms
+ GET /category-icon/11.png 404 in 228ms
+ GET /category-icon/12.png 404 in 231ms
+ GET /category-icon/14.png 404 in 101ms
+ GET /category-icon/13.png 404 in 103ms
+ GET /category-icon/15.png 404 in 104ms
+ GET /category-icon/16.png 404 in 111ms
+ GET /category-icon/17.png 404 in 166ms
+ GET /category-icon/18.png 404 in 173ms
+ GET /category-icon/19.png 404 in 172ms
+ GET /category-icon/20.png 404 in 176ms
+ GET /category-icon/21.png 404 in 177ms
+ GET /category-icon/22.png 404 in 185ms
+ GET /category-icon/23.png 404 in 179ms
+ GET /category-icon/24.png 404 in 148ms
+ GET /category-icon/25.png 404 in 108ms
+ GET /category-icon/26.png 404 in 92ms
+ GET /category-icon/27.png 404 in 99ms
+ GET /category-icon/28.png 404 in 103ms
+ GET /category-icon/29.png 404 in 125ms
+ GET /category-icon/30.png 404 in 84ms
+ GET /category-icon/31.png 404 in 69ms
+ GET /category-icon/32.png 404 in 77ms
+ GET /category-icon/33.png 404 in 79ms
+ GET /category-icon/36.png 404 in 188ms
+ GET /category-icon/35.png 404 in 192ms
+ GET /category-icon/38.png 404 in 193ms
+ GET /category-icon/34.png 404 in 194ms
+ GET /category-icon/37.png 404 in 198ms
+ GET /category-icon/39.png 404 in 199ms
+ GET /category-icon/2.png 404 in 455ms
+ GET /category-icon/1.png 404 in 462ms
+ GET /category-icon/3.png 404 in 469ms
+ GET /category-icon/4.png 404 in 482ms
+ GET /category-icon/5.png 404 in 443ms
+ GET /category-icon/6.png 404 in 457ms
+ GET /category-icon/8.png 404 in 154ms
+ GET /category-icon/9.png 404 in 159ms
+ GET /category-icon/7.png 404 in 165ms
+ GET /category-icon/11.png 404 in 168ms
+ GET /category-icon/10.png 404 in 181ms
+ GET /category-icon/12.png 404 in 187ms
+ GET /category-icon/13.png 404 in 173ms
+ GET /category-icon/14.png 404 in 176ms
+ GET /category-icon/20.png 404 in 168ms
+ GET /category-icon/22.png 404 in 172ms
+ GET /category-icon/18.png 404 in 187ms
+ GET /category-icon/15.png 404 in 189ms
+ GET /category-icon/16.png 404 in 193ms
+ GET /category-icon/17.png 404 in 195ms
+ GET /category-icon/19.png 404 in 198ms
+ GET /category-icon/21.png 404 in 213ms
+ GET /category-icon/23.png 404 in 249ms
+ GET /category-icon/29.png 404 in 245ms
+ GET /category-icon/30.png 404 in 91ms
+ GET /category-icon/28.png 404 in 94ms
+ GET /category-icon/25.png 404 in 97ms
+ GET /category-icon/27.png 404 in 110ms
+ GET /category-icon/26.png 404 in 90ms
+ GET /category-icon/24.png 404 in 83ms
+ GET /category-icon/31.png 404 in 105ms
+ GET /category-icon/32.png 404 in 100ms
+ GET /category-icon/33.png 404 in 91ms
+ GET /category-icon/34.png 404 in 93ms
+ GET /category-icon/35.png 404 in 71ms
+ GET /category-icon/36.png 404 in 74ms
+ GET /category-icon/38.png 404 in 79ms
+ GET /category-icon/37.png 404 in 71ms
+ GET /category-icon/39.png 404 in 79ms
+category
+t-cafe3
+false
+{ cafeName: 't-cafe3' }
+undefined
+{ name: '1', value: 'category-icon/1.png' }
+{ name: '2', value: 'category-icon/2.png' }
+{ name: '3', value: 'category-icon/3.png' }
+{ name: '4', value: 'category-icon/4.png' }
+{ name: '5', value: 'category-icon/5.png' }
+{ name: '6', value: 'category-icon/6.png' }
+{ name: '7', value: 'category-icon/7.png' }
+{ name: '8', value: 'category-icon/8.png' }
+{ name: '9', value: 'category-icon/9.png' }
+{ name: '10', value: 'category-icon/10.png' }
+{ name: '11', value: 'category-icon/11.png' }
+{ name: '12', value: 'category-icon/12.png' }
+{ name: '13', value: 'category-icon/13.png' }
+{ name: '14', value: 'category-icon/14.png' }
+{ name: '15', value: 'category-icon/15.png' }
+{ name: '16', value: 'category-icon/16.png' }
+{ name: '17', value: 'category-icon/17.png' }
+{ name: '18', value: 'category-icon/18.png' }
+{ name: '19', value: 'category-icon/19.png' }
+{ name: '20', value: 'category-icon/20.png' }
+{ name: '21', value: 'category-icon/21.png' }
+{ name: '22', value: 'category-icon/22.png' }
+{ name: '23', value: 'category-icon/23.png' }
+{ name: '24', value: 'category-icon/24.png' }
+{ name: '25', value: 'category-icon/25.png' }
+{ name: '26', value: 'category-icon/26.png' }
+{ name: '27', value: 'category-icon/27.png' }
+{ name: '28', value: 'category-icon/28.png' }
+{ name: '29', value: 'category-icon/29.png' }
+{ name: '30', value: 'category-icon/30.png' }
+{ name: '31', value: 'category-icon/31.png' }
+{ name: '32', value: 'category-icon/32.png' }
+{ name: '33', value: 'category-icon/33.png' }
+{ name: '34', value: 'category-icon/34.png' }
+{ name: '35', value: 'category-icon/35.png' }
+{ name: '36', value: 'category-icon/36.png' }
+{ name: '37', value: 'category-icon/37.png' }
+{ name: '38', value: 'category-icon/38.png' }
+{ name: '39', value: 'category-icon/39.png' }
+ GET /t-cafe3/category/add 200 in 459ms
+ GET /favicon.ico 200 in 163ms
+ GET /favicon.ico 200 in 37ms
+ GET /category-icon/3.png 404 in 230ms
+ GET /category-icon/2.png 404 in 235ms
+ GET /category-icon/1.png 404 in 238ms
+ GET /category-icon/4.png 404 in 245ms
+ GET /category-icon/5.png 404 in 249ms
+ GET /category-icon/6.png 404 in 260ms
+ GET /category-icon/7.png 404 in 92ms
+ GET /category-icon/8.png 404 in 127ms
+ GET /category-icon/11.png 404 in 129ms
+ GET /category-icon/12.png 404 in 123ms
+ GET /category-icon/9.png 404 in 128ms
+ GET /category-icon/10.png 404 in 121ms
+ GET /category-icon/13.png 404 in 126ms
+ GET /category-icon/14.png 404 in 157ms
+ GET /category-icon/15.png 404 in 134ms
+ GET /category-icon/16.png 404 in 142ms
+ GET /category-icon/17.png 404 in 122ms
+ GET /category-icon/18.png 404 in 114ms
+ GET /category-icon/22.png 404 in 198ms
+ GET /category-icon/19.png 404 in 197ms
+ GET /category-icon/21.png 404 in 200ms
+ GET /category-icon/23.png 404 in 201ms
+ GET /category-icon/20.png 404 in 205ms
+ GET /category-icon/24.png 404 in 206ms
+ GET /category-icon/25.png 404 in 37ms
+ GET /category-icon/26.png 404 in 202ms
+ GET /category-icon/27.png 404 in 199ms
+ GET /category-icon/30.png 404 in 204ms
+ GET /category-icon/28.png 404 in 205ms
+ GET /category-icon/29.png 404 in 206ms
+ GET /category-icon/31.png 404 in 229ms
+ GET /category-icon/32.png 404 in 24ms
+ GET /category-icon/33.png 404 in 107ms
+ GET /category-icon/34.png 404 in 145ms
+ GET /category-icon/35.png 404 in 144ms
+ GET /category-icon/36.png 404 in 137ms
+ GET /category-icon/37.png 404 in 109ms
+ GET /category-icon/38.png 404 in 97ms
+ GET /category-icon/39.png 404 in 70ms
+ GET /category-icon/14.png 404 in 173ms
+ GET /category-icon/15.png 404 in 177ms
+ GET /category-icon/16.png 404 in 182ms
+ GET /category-icon/18.png 404 in 196ms
+ GET /category-icon/17.png 404 in 202ms
+ GET /category-icon/19.png 404 in 107ms
+ GET /category-icon/20.png 404 in 134ms
+ GET /category-icon/21.png 404 in 110ms
+ GET /category-icon/22.png 404 in 113ms
+ GET /category-icon/23.png 404 in 117ms
+ GET /category-icon/24.png 404 in 126ms
+ GET /category-icon/25.png 404 in 74ms
+ GET /category-icon/26.png 404 in 73ms
+ GET /category-icon/27.png 404 in 78ms
+ GET /category-icon/28.png 404 in 82ms
+ GET /category-icon/1.png 404 in 89ms
+ GET /category-icon/29.png 404 in 92ms
+ GET /category-icon/2.png 404 in 95ms
+ GET /category-icon/3.png 404 in 99ms
+ GET /category-icon/4.png 404 in 127ms
+ GET /category-icon/5.png 404 in 124ms
+ GET /category-icon/6.png 404 in 130ms
+ GET /category-icon/7.png 404 in 152ms
+ GET /category-icon/8.png 404 in 178ms
+ GET /category-icon/9.png 404 in 167ms
+ GET /category-icon/10.png 404 in 200ms
+ GET /category-icon/11.png 404 in 222ms
+ GET /category-icon/12.png 404 in 227ms
+ GET /category-icon/13.png 404 in 218ms
+ GET /category-icon/31.png 404 in 77ms
+ GET /category-icon/30.png 404 in 78ms
+ GET /category-icon/32.png 404 in 75ms
+ GET /category-icon/35.png 404 in 104ms
+ GET /category-icon/34.png 404 in 110ms
+ GET /category-icon/33.png 404 in 115ms
+ GET /category-icon/36.png 404 in 125ms
+ GET /category-icon/37.png 404 in 128ms
+ GET /category-icon/38.png 404 in 104ms
+ GET /category-icon/39.png 404 in 46ms
+ GET /category-icon/23.png 404 in 168ms
+ GET /category-icon/18.png 404 in 173ms
+ GET /category-icon/20.png 404 in 178ms
+ GET /category-icon/29.png 404 in 190ms
+ GET /category-icon/28.png 404 in 193ms
+ GET /category-icon/22.png 404 in 104ms
+ GET /category-icon/24.png 404 in 93ms
+ GET /category-icon/27.png 404 in 95ms
+ GET /category-icon/16.png 404 in 104ms
+ GET /category-icon/17.png 404 in 120ms
+ GET /category-icon/25.png 404 in 122ms
+ GET /category-icon/15.png 404 in 44ms
+ GET /category-icon/19.png 404 in 95ms
+ GET /category-icon/14.png 404 in 96ms
+ GET /category-icon/26.png 404 in 100ms
+ GET /category-icon/21.png 404 in 101ms
+ GET /category-icon/1.png 404 in 118ms
+ GET /category-icon/2.png 404 in 57ms
+ GET /category-icon/4.png 404 in 95ms
+ GET /category-icon/5.png 404 in 97ms
+ GET /category-icon/3.png 404 in 102ms
+ GET /category-icon/6.png 404 in 108ms
+ GET /category-icon/7.png 404 in 119ms
+ GET /category-icon/8.png 404 in 62ms
+ GET /category-icon/30.png 404 in 140ms
+ GET /category-icon/9.png 404 in 141ms
+ GET /category-icon/12.png 404 in 142ms
+ GET /category-icon/11.png 404 in 142ms
+ GET /category-icon/13.png 404 in 147ms
+ GET /category-icon/10.png 404 in 148ms
+ GET /category-icon/31.png 404 in 158ms
+ GET /category-icon/32.png 404 in 137ms
+ GET /category-icon/34.png 404 in 141ms
+ GET /category-icon/36.png 404 in 149ms
+ GET /category-icon/33.png 404 in 149ms
+ GET /category-icon/35.png 404 in 150ms
+ GET /category-icon/37.png 404 in 90ms
+ GET /category-icon/38.png 404 in 94ms
+ GET /category-icon/39.png 404 in 108ms
+ GET /category-icon/20.png 404 in 129ms
+ GET /category-icon/19.png 404 in 174ms
+ GET /category-icon/14.png 404 in 141ms
+ GET /category-icon/24.png 404 in 143ms
+ GET /category-icon/21.png 404 in 141ms
+ GET /category-icon/23.png 404 in 146ms
+ GET /category-icon/15.png 404 in 49ms
+ GET /category-icon/29.png 404 in 77ms
+ GET /category-icon/17.png 404 in 90ms
+ GET /category-icon/27.png 404 in 93ms
+ GET /category-icon/16.png 404 in 92ms
+ GET /category-icon/28.png 404 in 93ms
+ GET /category-icon/18.png 404 in 83ms
+ GET /category-icon/26.png 404 in 133ms
+ GET /category-icon/25.png 404 in 135ms
+ GET /category-icon/22.png 404 in 138ms
+ GET /category-icon/1.png 404 in 137ms
+ GET /category-icon/2.png 404 in 140ms
+ GET /category-icon/21.png 404 in 143ms
+ GET /category-icon/17.png 404 in 207ms
+ GET /category-icon/15.png 404 in 222ms
+ GET /category-icon/27.png 404 in 235ms
+ GET /category-icon/20.png 404 in 241ms
+ GET /category-icon/19.png 404 in 266ms
+ GET /category-icon/24.png 404 in 284ms
+ GET /category-icon/28.png 404 in 162ms
+ GET /category-icon/23.png 404 in 164ms
+ GET /category-icon/16.png 404 in 167ms
+ GET /category-icon/14.png 404 in 168ms
+ GET /category-icon/29.png 404 in 171ms
+ GET /category-icon/3.png 404 in 71ms
+ GET /category-icon/6.png 404 in 111ms
+ GET /category-icon/4.png 404 in 116ms
+ GET /category-icon/5.png 404 in 124ms
+ GET /category-icon/7.png 404 in 142ms
+ GET /category-icon/8.png 404 in 142ms
+ GET /category-icon/9.png 404 in 179ms
+ GET /category-icon/11.png 404 in 186ms
+ GET /category-icon/10.png 404 in 193ms
+ GET /category-icon/12.png 404 in 227ms
+ GET /category-icon/13.png 404 in 234ms
+ GET /category-icon/30.png 404 in 158ms
+ GET /category-icon/32.png 404 in 127ms
+ GET /category-icon/31.png 404 in 127ms
+ GET /category-icon/34.png 404 in 130ms
+ GET /category-icon/33.png 404 in 146ms
+ GET /category-icon/35.png 404 in 150ms
+ GET /category-icon/36.png 404 in 190ms
+ GET /category-icon/37.png 404 in 139ms
+ GET /category-icon/39.png 404 in 144ms
+ GET /category-icon/38.png 404 in 148ms
+ GET /category-icon/1.png 404 in 148ms
+ GET /category-icon/2.png 404 in 162ms
+ GET /category-icon/3.png 404 in 174ms
+ GET /category-icon/4.png 404 in 130ms
+ GET /category-icon/7.png 404 in 129ms
+ GET /category-icon/6.png 404 in 130ms
+ GET /category-icon/5.png 404 in 127ms
+ GET /category-icon/8.png 404 in 119ms
+ GET /category-icon/9.png 404 in 159ms
+ GET /category-icon/2.png 404 in 103ms
+ GET /category-icon/3.png 404 in 105ms
+ GET /category-icon/6.png 404 in 111ms
+ GET /category-icon/1.png 404 in 115ms
+ GET /category-icon/4.png 404 in 118ms
+ GET /category-icon/5.png 404 in 121ms
+ GET /category-icon/8.png 404 in 197ms
+ GET /category-icon/11.png 404 in 198ms
+ GET /category-icon/9.png 404 in 201ms
+ GET /category-icon/7.png 404 in 205ms
+ GET /category-icon/12.png 404 in 222ms
+ GET /category-icon/10.png 404 in 228ms
+ GET /category-icon/13.png 404 in 174ms
+ GET /category-icon/16.png 404 in 153ms
+ GET /category-icon/18.png 404 in 153ms
+ GET /category-icon/15.png 404 in 157ms
+ GET /category-icon/14.png 404 in 160ms
+ GET /category-icon/17.png 404 in 161ms
+ GET /category-icon/19.png 404 in 127ms
+ GET /category-icon/20.png 404 in 128ms
+ GET /category-icon/21.png 404 in 132ms
+ GET /category-icon/22.png 404 in 128ms
+ GET /category-icon/23.png 404 in 128ms
+ GET /category-icon/24.png 404 in 135ms
+ GET /category-icon/26.png 404 in 67ms
+ GET /category-icon/25.png 404 in 80ms
+ GET /category-icon/27.png 404 in 99ms
+ GET /category-icon/28.png 404 in 103ms
+ GET /category-icon/29.png 404 in 125ms
+ GET /category-icon/30.png 404 in 128ms
+ GET /category-icon/31.png 404 in 95ms
+ GET /category-icon/32.png 404 in 93ms
+ GET /category-icon/33.png 404 in 103ms
+ GET /category-icon/34.png 404 in 115ms
+ GET /category-icon/35.png 404 in 88ms
+ GET /category-icon/36.png 404 in 90ms
+ GET /category-icon/37.png 404 in 50ms
+ GET /category-icon/38.png 404 in 58ms
+ GET /category-icon/39.png 404 in 69ms
+ GET /category-icon/21.png 404 in 171ms
+ GET /category-icon/20.png 404 in 170ms
+ GET /category-icon/23.png 404 in 179ms
+ GET /category-icon/25.png 404 in 187ms
+ GET /category-icon/26.png 404 in 192ms
+ GET /category-icon/14.png 404 in 197ms
+ GET /category-icon/27.png 404 in 137ms
+ GET /category-icon/24.png 404 in 135ms
+ GET /category-icon/22.png 404 in 139ms
+ GET /category-icon/28.png 404 in 136ms
+ GET /category-icon/15.png 404 in 136ms
+ GET /category-icon/18.png 404 in 132ms
+ GET /category-icon/29.png 404 in 64ms
+ GET /category-icon/19.png 404 in 66ms
+ GET /category-icon/16.png 404 in 81ms
+ GET /category-icon/17.png 404 in 64ms
+ GET /category-icon/2.png 404 in 65ms
+ GET /category-icon/1.png 404 in 67ms
+ GET /category-icon/3.png 404 in 49ms
+ GET /category-icon/6.png 404 in 106ms
+ GET /category-icon/8.png 404 in 108ms
+ GET /category-icon/5.png 404 in 108ms
+ GET /category-icon/9.png 404 in 113ms
+ GET /category-icon/7.png 404 in 119ms
+ GET /category-icon/4.png 404 in 123ms
+ GET /category-icon/12.png 404 in 190ms
+ GET /category-icon/11.png 404 in 194ms
+ GET /category-icon/13.png 404 in 199ms
+ GET /category-icon/10.png 404 in 217ms
+ GET /category-icon/30.png 404 in 231ms
+ GET /category-icon/31.png 404 in 236ms
+ GET /category-icon/32.png 404 in 71ms
+ GET /category-icon/33.png 404 in 81ms
+ GET /category-icon/34.png 404 in 89ms
+ GET /category-icon/35.png 404 in 95ms
+ GET /category-icon/36.png 404 in 90ms
+ GET /category-icon/37.png 404 in 107ms
+ GET /category-icon/38.png 404 in 150ms
+ GET /category-icon/39.png 404 in 153ms
+ GET /category-icon/2.png 404 in 157ms
+ GET /category-icon/1.png 404 in 161ms
+ GET /category-icon/3.png 404 in 159ms
+ GET /category-icon/4.png 404 in 97ms
+ GET /category-icon/5.png 404 in 143ms
+ GET /category-icon/6.png 404 in 146ms
+ GET /category-icon/8.png 404 in 142ms
+ GET /category-icon/7.png 404 in 149ms
+ GET /category-icon/9.png 404 in 90ms
+ GET /category-icon/10.png 404 in 79ms
+ GET /category-icon/11.png 404 in 90ms
+ GET /category-icon/12.png 404 in 80ms
+ GET /category-icon/13.png 404 in 78ms
+ GET /category-icon/14.png 404 in 81ms
+ GET /category-icon/15.png 404 in 97ms
+ GET /category-icon/16.png 404 in 88ms
+ GET /category-icon/17.png 404 in 96ms
+ GET /category-icon/20.png 404 in 168ms
+ GET /category-icon/21.png 404 in 171ms
+ GET /category-icon/19.png 404 in 175ms
+ GET /category-icon/18.png 404 in 179ms
+ GET /category-icon/22.png 404 in 186ms
+ GET /category-icon/23.png 404 in 194ms
+ GET /category-icon/25.png 404 in 163ms
+ GET /category-icon/24.png 404 in 167ms
+ GET /category-icon/27.png 404 in 171ms
+ GET /category-icon/26.png 404 in 181ms
+ GET /category-icon/29.png 404 in 184ms
+ GET /category-icon/28.png 404 in 190ms
+ GET /category-icon/30.png 404 in 93ms
+ GET /category-icon/31.png 404 in 92ms
+ GET /category-icon/32.png 404 in 101ms
+ GET /category-icon/33.png 404 in 100ms
+ GET /category-icon/34.png 404 in 103ms
+ GET /category-icon/35.png 404 in 111ms
+ GET /category-icon/36.png 404 in 52ms
+ GET /category-icon/37.png 404 in 61ms
+ GET /category-icon/38.png 404 in 68ms
+ GET /category-icon/39.png 404 in 62ms
+ GET /category-icon/1.png 404 in 209ms
+ GET /category-icon/2.png 404 in 206ms
+ GET /category-icon/3.png 404 in 211ms
+ GET /category-icon/4.png 404 in 217ms
+ GET /category-icon/5.png 404 in 220ms
+ GET /category-icon/6.png 404 in 223ms
+ GET /category-icon/7.png 404 in 143ms
+ GET /category-icon/8.png 404 in 140ms
+ GET /category-icon/9.png 404 in 140ms
+ GET /category-icon/12.png 404 in 145ms
+ GET /category-icon/11.png 404 in 146ms
+ GET /category-icon/10.png 404 in 147ms
+ GET /category-icon/16.png 404 in 121ms
+ GET /category-icon/14.png 404 in 124ms
+ GET /category-icon/13.png 404 in 130ms
+ GET /category-icon/15.png 404 in 136ms
+ GET /category-icon/17.png 404 in 143ms
+ GET /category-icon/18.png 404 in 150ms
+ GET /category-icon/19.png 404 in 161ms
+ GET /category-icon/20.png 404 in 161ms
+ GET /category-icon/21.png 404 in 155ms
+ GET /category-icon/22.png 404 in 150ms
+ GET /category-icon/24.png 404 in 169ms
+ GET /category-icon/23.png 404 in 173ms
+ GET /category-icon/25.png 404 in 61ms
+ GET /category-icon/26.png 404 in 69ms
+ GET /category-icon/3.png 404 in 208ms
+ GET /category-icon/2.png 404 in 214ms
+ GET /category-icon/4.png 404 in 221ms
+ GET /category-icon/1.png 404 in 227ms
+ GET /category-icon/5.png 404 in 229ms
+ GET /category-icon/6.png 404 in 231ms
+ GET /category-icon/12.png 404 in 119ms
+ GET /category-icon/8.png 404 in 116ms
+ GET /category-icon/9.png 404 in 115ms
+ GET /category-icon/10.png 404 in 114ms
+ GET /category-icon/11.png 404 in 118ms
+ GET /category-icon/7.png 404 in 118ms
+ GET /category-icon/13.png 404 in 121ms
+ GET /category-icon/14.png 404 in 127ms
+ GET /category-icon/16.png 404 in 129ms
+ GET /category-icon/17.png 404 in 132ms
+ GET /category-icon/15.png 404 in 135ms
+ GET /category-icon/18.png 404 in 139ms
+ GET /category-icon/22.png 404 in 155ms
+ GET /category-icon/20.png 404 in 156ms
+ GET /category-icon/19.png 404 in 157ms
+ GET /category-icon/21.png 404 in 159ms
+ GET /category-icon/24.png 404 in 159ms
+ GET /category-icon/23.png 404 in 164ms
+ GET /category-icon/25.png 404 in 46ms
+ GET /category-icon/26.png 404 in 59ms
+ GET /category-icon/2.png 404 in 72ms
+ GET /category-icon/cake.png 404 in 78ms
+ GET /category-icon/latte.png 404 in 82ms
+category
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe3/category 200 in 126ms
+category
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe3/category 200 in 145ms
+ GET /favicon.ico 200 in 23ms
+ GET /favicon.ico 200 in 33ms
+ GET /category-icon/2.png 404 in 94ms
+ GET /category-icon/cake.png 404 in 98ms
+ GET /category-icon/latte.png 404 in 104ms
+ ✓ Compiled in 3.3s (3514 modules)
+ ✓ Compiled in 3s (3528 modules)
+category
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe3/category 200 in 922ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1266ms (1830 modules)
+ GET /favicon.ico 200 in 1518ms
+ GET /favicon.ico 200 in 32ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1715ms (3547 modules)
+ GET /category-icon/cake.png 404 in 2016ms
+ ○ Compiling /[cafeName]/products ...
+ ✓ Compiled /[cafeName]/products in 4.3s (3560 modules)
+category
+t-cafe3
+false
+{ cafeName: 't-cafe3' }
+undefined
+{ name: 'icon', value: 'category-icon/1.png' }
+{ name: 'icon', value: 'category-icon/2.png' }
+{ name: 'icon', value: 'category-icon/3.png' }
+{ name: 'icon', value: 'category-icon/4.png' }
+{ name: 'icon', value: 'category-icon/5.png' }
+{ name: 'icon', value: 'category-icon/6.png' }
+{ name: 'icon', value: 'category-icon/7.png' }
+{ name: 'icon', value: 'category-icon/8.png' }
+{ name: 'icon', value: 'category-icon/9.png' }
+{ name: 'icon', value: 'category-icon/10.png' }
+{ name: 'icon', value: 'category-icon/11.png' }
+{ name: 'icon', value: 'category-icon/12.png' }
+{ name: 'icon', value: 'category-icon/13.png' }
+{ name: 'icon', value: 'category-icon/14.png' }
+{ name: 'icon', value: 'category-icon/15.png' }
+{ name: 'icon', value: 'category-icon/16.png' }
+{ name: 'icon', value: 'category-icon/17.png' }
+{ name: 'icon', value: 'category-icon/18.png' }
+{ name: 'icon', value: 'category-icon/19.png' }
+{ name: 'icon', value: 'category-icon/20.png' }
+{ name: 'icon', value: 'category-icon/21.png' }
+{ name: 'icon', value: 'category-icon/22.png' }
+{ name: 'icon', value: 'category-icon/23.png' }
+{ name: 'icon', value: 'category-icon/24.png' }
+{ name: 'icon', value: 'category-icon/25.png' }
+{ name: 'icon', value: 'category-icon/26.png' }
+{ name: 'icon', value: 'category-icon/27.png' }
+{ name: 'icon', value: 'category-icon/28.png' }
+{ name: 'icon', value: 'category-icon/29.png' }
+{ name: 'icon', value: 'category-icon/30.png' }
+{ name: 'icon', value: 'category-icon/31.png' }
+{ name: 'icon', value: 'category-icon/32.png' }
+{ name: 'icon', value: 'category-icon/33.png' }
+{ name: 'icon', value: 'category-icon/34.png' }
+{ name: 'icon', value: 'category-icon/35.png' }
+{ name: 'icon', value: 'category-icon/36.png' }
+{ name: 'icon', value: 'category-icon/37.png' }
+{ name: 'icon', value: 'category-icon/38.png' }
+{ name: 'icon', value: 'category-icon/39.png' }
+ GET /t-cafe3/category/add 200 in 677ms
+ GET /favicon.ico 200 in 95ms
+ GET /favicon.ico 200 in 34ms
+ ○ Compiling /[cafeName]/products/add ...
+ ✓ Compiled /[cafeName]/products/add in 1887ms (3572 modules)
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 248ms
+ GET /favicon.ico 200 in 87ms
+ GET /favicon.ico 200 in 32ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.3s (3768 modules)
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 4790ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 4772ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 247ms
+ GET /favicon.ico 200 in 53ms
+ GET /favicon.ico 200 in 23ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 53ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 33ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 28ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 21ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 114ms
+ GET /favicon.ico 200 in 39ms
+ GET /favicon.ico 200 in 57ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=2048&q=75 500 in 28ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=2048&q=75 500 in 19ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 30ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 21ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=1200&q=75 500 in 132ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=1200&q=75 500 in 92ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=1200&q=75 500 in 127ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=1200&q=75 500 in 79ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=1080&q=75 500 in 95ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=1080&q=75 500 in 71ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=1080&q=75 500 in 91ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=1080&q=75 500 in 62ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 159ms
+ GET /favicon.ico 200 in 31ms
+ GET /favicon.ico 200 in 45ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 62ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=2048&q=75 500 in 48ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=2048&q=75 500 in 60ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=2048&q=75 500 in 44ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 55ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 37ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 116ms
+ GET /favicon.ico 200 in 68ms
+ GET /favicon.ico 200 in 37ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 68ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 45ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 58ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 37ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 136ms
+ GET /favicon.ico 200 in 71ms
+ GET /favicon.ico 200 in 37ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 74ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 58ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 72ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 32ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 95ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 70ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 88ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 65ms
+ ✓ Compiled in 3.6s (3750 modules)
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 698ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 612ms (1860 modules)
+ GET /favicon.ico 200 in 878ms
+ GET /favicon.ico 200 in 18ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1167ms (3768 modules)
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 1331ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 1317ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 1329ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 1312ms
+products
+t-cafe3
+false
+{ cafeName: 't-cafe3' }
+undefined
+ GET /t-cafe3/products/add 200 in 759ms
+products
+t-cafe3
+false
+{ cafeName: 't-cafe3' }
+undefined
+ GET /t-cafe3/products/add 200 in 110ms
+ GET /favicon.ico 200 in 134ms
+ GET /favicon.ico 200 in 41ms
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 1800ms (1866 modules)
+ ✓ Compiled in 1ms (1866 modules)
+ ✓ Compiled in 1ms (1866 modules)
+ ✓ Compiled in 2ms (1866 modules)
+ ✓ Compiled in 2ms (1866 modules)
+ ✓ Compiled in 1ms (1866 modules)
+ ✓ Compiled in 1ms (1866 modules)
+ ✓ Compiled in 2ms (1866 modules)
+products
+t-cafe3
+false
+{ cafeName: 't-cafe3' }
+undefined
+ GET /t-cafe3/products/add 200 in 4428ms
+ GET /favicon.ico 200 in 52ms
+ GET /favicon.ico 200 in 22ms
+ GET /favicon.ico 200 in 39ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.2s (3774 modules)
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 2438ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 2411ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 2367ms
+ GET /_next/image?url=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 2340ms
+ ✓ Compiled in 3.9s (3788 modules)
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 396ms
+ GET /favicon.ico 200 in 42ms
+ GET /favicon.ico 200 in 40ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=3840&q=75 500 in 10185ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728288571893.png&w=3840&q=75 500 in 149ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 10181ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819040694.png&w=3840&q=75 500 in 144ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 10177ms
+ GET /_next/image?url=http%3A%2F%2Ftamnama.nsjsoft.ir%3A8080%2Fapi%2Fuploads%2Ffile%2Ft-cafe3%2Ft-cafe3_1728819163935.png&w=3840&q=75 500 in 139ms
+ ✓ Compiled in 2.4s (3750 modules)
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 847ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 900ms (1860 modules)
+ GET /favicon.ico 200 in 1196ms
+ GET /favicon.ico 200 in 31ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 382ms
+ GET /favicon.ico 200 in 41ms
+ GET /favicon.ico 200 in 39ms
+products
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe3/products 200 in 153ms
+ GET /favicon.ico 200 in 72ms
+ GET /favicon.ico 200 in 44ms
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 1370ms (1866 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 336ms
+ GET /favicon.ico 200 in 131ms
+ GET /favicon.ico 200 in 56ms
+   Reload env: .env
+ ✓ Compiled in 40.6s (3731 modules)

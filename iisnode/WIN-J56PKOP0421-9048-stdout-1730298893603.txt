@@ -1,0 +1,5 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\5ac48009-82e6-4a82-acde-434e15bb8093
+ ○ Compiling / ...
+ ✓ Compiled / in 10.5s (598 modules)
+ ✓ Compiled in 1099ms (286 modules)
+ GET / 307 in 11881ms

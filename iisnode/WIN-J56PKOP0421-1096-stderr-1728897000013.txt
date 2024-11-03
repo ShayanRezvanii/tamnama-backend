@@ -1,0 +1,69 @@
+(node:1096) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "1481862004"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ Failed to generate static paths for /[cafeName]:
+C:\inetpub\wwwroot\taam-dashboard\.next\server\vendor-chunks\next.js:2632
+eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\n0 && (0);\nfunction _export(target, all) {\n    for(var name in all)Object.defineProperty(target, name, {\n        enumerable: true,\n        get: all[name]\n    });\n}\n_export(exports, {\n    SpanKind: function() {\n        return SpanKind;\n    },\n    SpanStatusCode: function() {\n        return SpanStatusCode;\n    },\n    getTracer: function() {\n        return getTracer;\n    }\n});\nconst _constants = __webpack_require__(/*! ./constants */ \"(rsc)/./node_modules/next/dist/server/lib/trace/constants.js\");\nlet api;\n// we want to allow users to use their own version of @opentelemetry/api if they\n// want to, so we try to require it first, and if it fails we fall back to the\n// version that is bundled with Next.js\n// this is because @opentelemetry/api has to be synced with the version of\n// @opentelemetry/tracing that is used, and we don't want to force users to use\n// the version that is bundled with Next.js.\n// the API is ~stable, so this should be fine\nif (false) {} else {\n    try {\n        api = __webpack_require__(/*! @opentelemetry/api */ \"(rsc)/./node_modules/next/dist/compiled/@opentelemetry/api/index.js\");\n    } catch (err) {\n        api = __webpack_require__(/*! next/dist/compiled/@opentelemetry/api */ \"(rsc)/./node_modules/next/dist/compiled/@opentelemetry/api/index.js\");\n    }\n}\nconst { context, propagation, trace, SpanStatusCode, SpanKind, ROOT_CONTEXT } = api;\nconst isPromise = (p)=>{\n    return p !== null && typeof p === \"object\" && typeof p.then === \"function\";\n};\nconst closeSpanWithError = (span, error)=>{\n    if ((error
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1339:12)
+    at mod.require (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\require-hook.js:65:28)
+    at require (node:internal/modules/helpers:135:16) {
+  type: 'SyntaxError'
+}
+ ⨯ The requested resource isn't a valid image for /category-icon/cake.png received text/html; charset=utf-8
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⚠ The requested resource "/_next/static/media/sticker_12743942.49080b7b.gif" is an animated image so it will not be optimized. Consider adding the "unoptimized" property to the <Image>.

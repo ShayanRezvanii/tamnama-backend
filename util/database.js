@@ -2,7 +2,8 @@
 
 const { MongoClient } = require("mongodb");
 
-const uri = "mongodb://172.25.1.29:27017/tamnama";
+const uri =
+  "mongodb+srv://shayanrezvani5:Shayan1382@tamnama.gzlscr6.mongodb.net/?appName=tamnama/";
 
 const mongoConnect = (callBack) => {
   MongoClient.connect(uri)

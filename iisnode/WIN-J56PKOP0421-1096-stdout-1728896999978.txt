@@ -1,0 +1,335 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\0e890b10-53ea-4b8e-b3ef-3ad9ac23e093
+ ○ Compiling /login ...
+ ✓ Compiled /login in 31.5s (2778 modules)
+ ✓ Compiled in 2.1s (1358 modules)
+ GET /login 500 in 12316ms
+ GET /login 500 in 34009ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 9.8s (1450 modules)
+ GET /favicon.ico 200 in 10126ms
+ GET /favicon.ico 200 in 18ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1104ms (2797 modules)
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 1440ms
+ GET /login 500 in 316ms
+ GET /favicon.ico 200 in 107ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 79ms
+ GET /favicon.ico 200 in 29ms
+ GET /login 500 in 80ms
+ GET /favicon.ico 200 in 37ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 58ms
+ GET /favicon.ico 200 in 27ms
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 4.2s (2891 modules)
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 347ms
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 432ms
+ GET /favicon.ico 200 in 152ms
+ GET /favicon.ico 200 in 30ms
+ ○ Compiling /[cafeName]/category ...
+ ✓ Compiled /[cafeName]/category in 3.2s (2873 modules)
+undefined
+t-cafe3
+false
+ GET /t-cafe3 200 in 440ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1907ms (2906 modules)
+ GET /category-icon/cake.png 404 in 2404ms
+ GET /favicon.ico 200 in 1721ms
+ GET /favicon.ico 200 in 2499ms
+ GET /favicon.ico 200 in 35ms
+category
+t-cafe3
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe3/category 200 in 350ms
+ GET /favicon.ico 200 in 58ms
+ GET /favicon.ico 200 in 56ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 73ms
+ ○ Compiling /[cafeName]/profile ...
+ ✓ Compiled /[cafeName]/profile in 8.4s (3535 modules)
+undefined
+t-cafe
+false
+ GET /t-cafe 200 in 4720ms
+ GET /favicon.ico 200 in 111ms
+profile
+undefined
+false
+undefined
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+ GET /undefined/profile 200 in 395ms
+ GET /favicon.ico 200 in 35ms
+ GET /favicon.ico 200 in 17ms
+ GET /login 500 in 278ms
+ GET /favicon.ico 200 in 59ms
+profile
+t-cafe
+false
+undefined
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+undefined
+{ name: '01:00', value: '01:00' }
+{ name: '01:30', value: '01:30' }
+{ name: '02:00', value: '02:00' }
+{ name: '02:30', value: '02:30' }
+{ name: '03:00', value: '03:00' }
+{ name: '03:30', value: '03:30' }
+{ name: '04:00', value: '04:00' }
+{ name: '04:30', value: '04:30' }
+{ name: '05:00', value: '05:00' }
+{ name: '05:30', value: '05:30' }
+{ name: '06:00', value: '06:00' }
+{ name: '06:30', value: '06:30' }
+{ name: '07:00', value: '07:00' }
+{ name: '07:30', value: '07:30' }
+{ name: '08:00', value: '08:00' }
+{ name: '08:30', value: '08:30' }
+{ name: '09:00', value: '09:00' }
+{ name: '09:30', value: '09:30' }
+{ name: '10:00', value: '10:00' }
+{ name: '10:30', value: '10:30' }
+{ name: '11:00', value: '11:00' }
+{ name: '11:30', value: '11:30' }
+{ name: '12:00', value: '12:00' }
+{ name: '12:30', value: '12:30' }
+{ name: '13:00', value: '13:00' }
+{ name: '13:30', value: '13:30' }
+{ name: '14:00', value: '14:00' }
+{ name: '14:30', value: '14:30' }
+{ name: '15:00', value: '15:00' }
+{ name: '15:30', value: '15:30' }
+{ name: '16:00', value: '16:00' }
+{ name: '16:30', value: '16:30' }
+{ name: '17:00', value: '17:00' }
+{ name: '17:30', value: '17:30' }
+{ name: '18:00', value: '18:00' }
+{ name: '18:30', value: '18:30' }
+{ name: '19:00', value: '19:00' }
+{ name: '19:30', value: '19:30' }
+{ name: '20:00', value: '20:00' }
+{ name: '20:30', value: '20:30' }
+{ name: '21:00', value: '21:00' }
+{ name: '21:30', value: '21:30' }
+{ name: '22:00', value: '22:00' }
+{ name: '22:30', value: '22:30' }
+{ name: '23:00', value: '23:00' }
+{ name: '23:30', value: '23:30' }
+{ name: '00:00', value: '00:00' }
+{ name: '00:30', value: '00:30' }
+ GET /t-cafe/profile 200 in 288ms
+ GET /favicon.ico 200 in 37ms
+ GET /favicon.ico 200 in 33ms
+ ○ Compiling /[cafeName]/category/add ...
+ ✓ Compiled /[cafeName]/category/add in 3.7s (3514 modules)
+ ○ Compiling /[cafeName]/products ...
+ ✓ Compiled /[cafeName]/products in 2.1s (3527 modules)
+ ○ Compiling /[cafeName]/products/add ...
+ ✓ Compiled /[cafeName]/products/add in 1588ms (3539 modules)
+products
+t-cafe
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+ GET /t-cafe/products 200 in 457ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 844ms (1821 modules)
+ GET /favicon.ico 200 in 1072ms
+ GET /favicon.ico 200 in 40ms

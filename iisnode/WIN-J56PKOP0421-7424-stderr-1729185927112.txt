@@ -1,0 +1,23 @@
+(node:7424) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"

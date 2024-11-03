@@ -1,0 +1,12 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\882609e0-1fcb-483f-b006-b69294ebc9c0
+ ○ Compiling /login ...
+ ✓ Compiled /login in 28.9s (2778 modules)
+ ✓ Compiled in 1762ms (1358 modules)
+ GET /login 500 in 30911ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 2.6s (1450 modules)
+ GET /favicon.ico 200 in 2993ms
+ GET /login 500 in 240ms
+ GET /favicon.ico 200 in 26ms
+ GET /login 500 in 130ms
+ GET /favicon.ico 200 in 35ms

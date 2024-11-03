@@ -1,0 +1,1033 @@
+(node:10056) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ ReferenceError: document is not defined
+    at __webpack_require__ (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at eval (login/page.tsx:10:96)
+    at (ssr)/./app/(Register)/login/page.tsx (C:\inetpub\wwwroot\taam-dashboard\.next\server\app\(Register)\login\page.js:282:1)
+    at Object.__webpack_require__ [as require] (C:\inetpub\wwwroot\taam-dashboard\.next\server\webpack-runtime.js:33:43)
+    at JSON.parse (<anonymous>)
+digest: "2558935861"
+ ⨯ The requested resource isn't a valid image for /category-icon/cake.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/latte.png received text/html; charset=utf-8
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/27.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/29.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/28.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/30.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/31.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/32.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/33.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/34.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/35.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/36.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/37.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/38.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/39.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/3.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/4.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/1.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/5.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/6.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/12.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/8.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/9.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/10.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/11.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/7.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/13.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/14.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/16.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/17.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/15.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/18.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/22.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/20.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/19.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/21.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/24.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/23.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/25.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/26.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/cake.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/latte.png received text/html; charset=utf-8
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ ⨯ The requested resource isn't a valid image for /category-icon/2.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/cake.png received text/html; charset=utf-8
+ ⨯ The requested resource isn't a valid image for /category-icon/latte.png received text/html; charset=utf-8
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+ ⨯ The requested resource isn't a valid image for /category-icon/cake.png received text/html; charset=utf-8
+ImageError: The requested resource isn't a valid image.
+    at imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:637:19)
+    at DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:651:20)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  statusCode: 400
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+ ⨯ Failed to generate static paths for /[cafeName]:
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at loadManifest (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\load-manifest.js:35:27)
+    at getMaybePagePath (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\require.js:57:59)
+    at getPagePath (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\require.js:92:22)
+    at requirePage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\require.js:99:22)
+    at C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\load-components.js:98:84
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async loadComponentsImpl (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\load-components.js:98:26)
+    at async Object.loadStaticPaths (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\dev\static-paths-worker.js:23:24) {
+  type: 'SyntaxError'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: AggregateError [ECONNREFUSED]: 
+      at internalConnectMultiple (node:net:1122:18)
+      at afterConnectMultiple (node:net:1689:7)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'ECONNREFUSED',
+    [errors]: [ [Error], [Error] ]
+  }
+}
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processImmediate (node:internal/timers:459:9)
+    at process.callbackTrampoline (node:internal/async_hooks:130:17)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error
+      at onConnectTimeout (node:internal/deps/undici/undici:2331:28)
+      at node:internal/deps/undici/undici:2283:50
+      at Immediate._onImmediate (node:internal/deps/undici/undici:2313:37)
+      at process.processImmediate (node:internal/timers:491:21)
+      at process.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error
+      at onConnectTimeout (node:internal/deps/undici/undici:2331:28)
+      at node:internal/deps/undici/undici:2283:50
+      at Immediate._onImmediate (node:internal/deps/undici/undici:2313:37)
+      at process.processImmediate (node:internal/timers:491:21)
+      at process.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:13185:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchExternalImage (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\image-optimizer.js:565:17)
+    at async DevServer.imageOptimizer (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:650:48)
+    at async cacheEntry.imageResponseCache.get.incrementalCache (C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\next-server.js:182:65)
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\server\response-cache\index.js:90:36
+    at async C:\inetpub\wwwroot\taam-dashboard\node_modules\next\dist\lib\batcher.js:45:32 {
+  [cause]: ConnectTimeoutError: Connect Timeout Error
+      at onConnectTimeout (node:internal/deps/undici/undici:2331:28)
+      at node:internal/deps/undici/undici:2283:50
+      at Immediate._onImmediate (node:internal/deps/undici/undici:2313:37)
+      at process.processImmediate (node:internal/timers:491:21)
+      at process.callbackTrampoline (node:internal/async_hooks:130:17) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}

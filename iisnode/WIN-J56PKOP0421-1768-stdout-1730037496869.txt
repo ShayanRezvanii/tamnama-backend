@@ -1,0 +1,189 @@
+> Ready on http://tamnama.nsjsoft.ir:\\.\pipe\f79bb900-16e2-411c-aa0e-face91de1741
+ ○ Compiling / ...
+ ✓ Compiled /login in 14.7s (2785 modules)
+ GET / 307 in 15936ms
+ GET / 307 in 15706ms
+ GET / 307 in 15965ms
+ GET /login 500 in 14426ms
+ GET /login 500 in 11422ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 747ms (1457 modules)
+ GET /favicon.ico 200 in 1045ms
+ GET /login 500 in 458ms
+ GET /favicon.ico 200 in 26ms
+ GET /login 500 in 91ms
+ GET /favicon.ico 200 in 30ms
+ GET /login 500 in 91ms
+ GET /favicon.ico 200 in 34ms
+ GET /login 500 in 108ms
+ GET /favicon.ico 200 in 29ms
+ ○ Compiling /[cafeName] ...
+ ✓ Compiled /[cafeName] in 4.2s (2888 modules)
+undefined
+t-cafe
+false
+ GET /t-cafe 200 in 396ms
+ GET /favicon.ico 200 in 75ms
+ ○ Compiling / ...
+ ✓ Compiled / in 906ms (1475 modules)
+ GET / 307 in 1462ms
+ GET /login 500 in 137ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 922ms (1498 modules)
+ GET /favicon.ico 200 in 1138ms
+ GET /login 500 in 378ms
+ GET /favicon.ico 200 in 16ms
+ GET /login 500 in 82ms
+ GET /favicon.ico 200 in 31ms
+ ○ Compiling / ...
+ ✓ Compiled / in 876ms (1475 modules)
+ GET / 307 in 1320ms
+ GET / 307 in 63ms
+ GET /login 500 in 94ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 652ms (1505 modules)
+ GET /favicon.ico 200 in 922ms
+ ○ Compiling /[cafeName]/category ...
+ ✓ Compiled /[cafeName]/category in 4.4s (2873 modules)
+ ○ Compiling /[cafeName]/products ...
+ ✓ Compiled /[cafeName]/products in 1695ms (2886 modules)
+ ○ Compiling /[cafeName]/profile ...
+ ✓ Compiled /[cafeName]/profile in 5.5s (3515 modules)
+ ○ Compiling /[cafeName]/products/[id] ...
+ ✓ Compiled /[cafeName]/products/[id] in 2.6s (3528 modules)
+ ○ Compiling /[cafeName]/products/add ...
+ ✓ Compiled /[cafeName]/products/add in 2.6s (3520 modules)
+products
+t-cafe
+false
+{ cafeName: 't-cafe' }
+undefined
+ GET /t-cafe/products/add 200 in 602ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1729ms (1827 modules)
+ GET /favicon.ico 200 in 2062ms
+category
+t-cafe
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe/category 200 in 409ms
+ GET /favicon.ico 200 in 35ms
+category
+t-cafe
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe/category 200 in 136ms
+ GET /favicon.ico 200 in 37ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 2.7s (3553 modules)
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 3047ms
+ GET /login 500 in 173ms
+ GET /favicon.ico 200 in 116ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 122ms
+ GET /login 500 in 144ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 80ms
+ GET /favicon.ico 200 in 37ms
+ GET /login 500 in 68ms
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 57ms
+ GET /favicon.ico 200 in 33ms
+ GET /login 500 in 113ms
+ GET /favicon.ico 200 in 34ms
+ GET /login 500 in 91ms
+ GET /favicon.ico 200 in 36ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1729ms (1804 modules)
+ GET / 307 in 2102ms
+ GET /login 500 in 128ms
+ GET /login 500 in 161ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1061ms (1827 modules)
+ GET /favicon.ico 200 in 1240ms
+category
+t-cafe
+false
+{
+  status: [Getter],
+  fetchStatus: [Getter],
+  isPending: [Getter],
+  isSuccess: [Getter],
+  isError: [Getter],
+  isInitialLoading: [Getter],
+  isLoading: [Getter],
+  data: [Getter],
+  dataUpdatedAt: [Getter],
+  error: [Getter],
+  errorUpdatedAt: [Getter],
+  failureCount: [Getter],
+  failureReason: [Getter],
+  errorUpdateCount: [Getter],
+  isFetched: [Getter],
+  isFetchedAfterMount: [Getter],
+  isFetching: [Getter],
+  isRefetching: [Getter],
+  isLoadingError: [Getter],
+  isPaused: [Getter],
+  isPlaceholderData: [Getter],
+  isRefetchError: [Getter],
+  isStale: [Getter],
+  refetch: [Getter]
+}
+undefined
+ GET /t-cafe/category 200 in 450ms
+ GET /favicon.ico 200 in 21ms
+ GET /login 500 in 156ms
+ GET /favicon.ico 200 in 34ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1847ms (3553 modules)
+ GET /_next/static/css/app/(Register)/login/bootstrap.min.css.map 404 in 2103ms
